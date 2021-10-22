@@ -1,9 +1,6 @@
 
 # Rodo Exercise for Senior Quality Engineer
 
-# Candidate exercise for Quality Assurance Engineer
-
-
 # Requirements
 
 + **Develop a test strategy document (no more than 2 pages) for validating and assuring Rodo customer "global search" functionality**
