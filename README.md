@@ -33,7 +33,7 @@
 + Good understanding and recap of problem statement in the strategy document (10%)
 + Clean test strategy document, crisp test and validation steps (30%)
 + Automation project scaffolding, overview (10%)
-+ Success of automation script (20%)
++ Success of automation script and configurability (e.g., we want the script to search for Coupes instead of Small SUVs without touching the code) (20%)
 + Communication style, analytical approach, verbal and written strategy skills (30%)
 
 
