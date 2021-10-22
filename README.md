@@ -4,13 +4,13 @@
 # Requirements
 
 + **Develop a test strategy document (no more than 2 pages) for validating and assuring Rodo customer "global search" functionality**
-o	Strategy document should contain the highlights of the testing approach, challenges, preparation, success metrics for the test, assumptions made, specification as to exactly what is being tested, and dependencies documented
-o	Write 2 key test scenarios and associated 1 test case per scenario
+*	Strategy document should contain the highlights of the testing approach, challenges, preparation, success metrics for the test, assumptions made, specification as to exactly what is being tested, and dependencies documented
+*	Write 2 key test scenarios and associated 1 test case per scenario
 
 + **Automate the following test case**
-o	Rodo.com customer logs in to the platform (existing user, can be assumed to be logged in, or add a step for logging-in)
-o	Searches for Small SUV under global search bar
-o	Visits the 5th car in the list (the car number should be configurable)
+*	Rodo.com customer logs in to the platform (existing user, can be assumed to be logged in, or add a step for logging-in)
+*	Searches for Small SUV under global search bar
+*	Visits the 5th car in the list (the car number should be configurable)
 
 # How to test Global Search Bar
 
