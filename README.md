@@ -21,8 +21,9 @@ o	Visits the 5th car in the list (the car number should be configurable)
 * Register as a customer
 * After successfully logging in, use the below functionality for searching under our Global Search bar
 
-<img src="https://github.com/Honcker/qa_automation_exercise/blob/main/Screen%20Shot%202021-10-21%20at%2010.32.15%20PM.png
-" alt="Rodo Global Search" style="height: 500px; width:500px;"/>
+
+[<img src="https://github.com/Honcker/qa_automation_exercise/blob/main/Screen%20Shot%202021-10-21%20at%2010.32.15%20PM.png">]
+
 
 # Automation Task
 
